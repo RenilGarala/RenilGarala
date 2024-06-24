@@ -1,27 +1,20 @@
+<h1 align="left">Hi 👋, I'm Renil Garala</h1>
+<h4 align="left">I am a frontend developer with a 6+ months of experience and worked with Front End technologies like React.js, JavaScript tailwind. Currently I am pursuing my Bachelors in Application.</h4>
 
-[![MasterHead](https://images.prismic.io/turing/652ec75afbd9a45bcec81a31_Front_End_Developer_Outsource_6b0889ba3a.webp?auto=format%2Ccompress&fit=max&w=3840)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Renil Garala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmdhNmVzYmZzNWxicmV2YjF1dDZibXphZDQ3dHRraWtjMHQ0b292NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif">
+- 🔭 I’m currently working on <a href ="https://github.com/RenilGarala/Food_Order_Website">Tasty treat</a>  
+- 🌱 I’m currently exploring **React js** **Node js**
+- 👯 I’m looking to collaborate on **Front-end Developer Roles**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renilgarala&label=Profile%20views&color=0e75b6&style=flat" alt="renilgarala" /> </p>
+<h3>Connect with me: </h3>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=renilgarala360004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/renil-garala-3b1b2224a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-- 🌱 I’m currently learning **React JS, Node JS, Flutter, Dot Net**
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,java,py,c,css,html,react,redux,git,tailwind,bootstrap,materialui,babel,vite,vscode,postman&perline=11)](https://skillicons.dev)
 
-- 💬 Ask me about **MERN**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/renil garala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renil garala" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/renilgarala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="renilgarala" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/renil garala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="renil garala" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renilgarala&show_icons=true&locale=en&layout=compact" alt="renilgarala" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renilgarala&show_icons=true&locale=en" alt="renilgarala" /></p>
-
+<h2>My Git Status</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renilgarala&" alt="renilgarala" /></p>
