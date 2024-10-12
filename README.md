@@ -9,7 +9,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=renilgarala360004@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/renil-garala-3b1b2224a/">
+  <a href="https://www.linkedin.com/in/renilgarala/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
