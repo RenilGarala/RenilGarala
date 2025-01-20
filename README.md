@@ -1,4 +1,4 @@
-![Exciting GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU3Y3V2cXlzOXJoM3lqeW1sY2V1cmNnNDdwdW9sMnJnM241b2lzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xaOcLGvzHxDKjufnLW/giphy.gif)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU3Y3V2cXlzOXJoM3lqeW1sY2V1cmNnNDdwdW9sMnJnM241b2lzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xaOcLGvzHxDKjufnLW/giphy.gif" alt="Enjoy Gif" width="300" height="200">
 
 <h3>Connect with me: </h3>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=renilgarala360004@gmail.com">
