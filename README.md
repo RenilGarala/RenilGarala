@@ -1,9 +1,4 @@
-<h1 align="left">Hi 👋, I'm Renil Garala</h1>
-<h4 align="left">I am a frontend developer with a 6+ months of experience and worked with Front End technologies like React.js, JavaScript tailwind. Currently I am pursuing my Bachelors in Computer Application.</h4>
-
-- 🔭 I recently completed <a href ="https://github.com/RenilGarala/Food_Order_Website">Tasty treat</a> project
-- 🌱 I’m currently exploring **React js** **Node js**
-- 👯 I’m looking to collaborate on **Front-end Developer Roles**
+![Exciting GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU3Y3V2cXlzOXJoM3lqeW1sY2V1cmNnNDdwdW9sMnJnM241b2lzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xaOcLGvzHxDKjufnLW/giphy.gif)
 
 <h3>Connect with me: </h3>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=renilgarala360004@gmail.com">
