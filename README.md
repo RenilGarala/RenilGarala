@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/renilgarala/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.linkedin.com/in/renilgarala/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,git,express,mongodb,nodejs,tailwind,bootstrap,materialui,babel,vite,figma,vscode,postman&perline=11)](https://skillicons.dev)
