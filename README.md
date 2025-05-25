@@ -9,7 +9,7 @@
    </a>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,git,express,mongodb,nodejs,tailwind,bootstrap,materialui,babel,vite,figma,vscode,postman&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,git,express,mongodb,nodejs,tailwind,bootstrap,materialui,babel,prisma,docker,npm,typescript,vite,figma,vscode,postman&perline=11)](https://skillicons.dev)
 
 <h2>My Git Status</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renilgarala&" alt="renilgarala" /></p>
